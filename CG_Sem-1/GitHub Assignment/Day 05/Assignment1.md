@@ -8,3 +8,5 @@
 3. Create a comparison table between **Clone** and **Fork** (at least 5 points).
 4. When should you use Fork instead of Clone?
 5. Write one real-life example where Fork is useful.
+
+**Answers-**
