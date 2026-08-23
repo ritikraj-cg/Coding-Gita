@@ -17,3 +17,6 @@
 4. Write 3 key takeaways from today.
 
 **Answers:** 
+
+
+<img width="2078" height="1832" alt="IMG_20260823_110724" src="https://github.com/user-attachments/assets/5334ef81-9fff-44ab-bce5-891e5d82ac26" />
