@@ -11,3 +11,5 @@
 3. Write **4 key takeaways** from Day 5.
 
 **Answers:** 
+
+<img width="1893" height="1303" alt="IMG_20260823_105244" src="https://github.com/user-attachments/assets/2b924db9-36dc-49fb-a6d3-678c3f3474d5" />
