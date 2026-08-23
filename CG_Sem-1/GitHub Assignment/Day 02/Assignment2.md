@@ -10,3 +10,6 @@
 5. Why is **VS Code** the most popular among beginners? Write 4 reasons.
 
 **Answers-**
+<img width="2143" height="2011" alt="IMG_20260823_100340" src="https://github.com/user-attachments/assets/64137259-a1a5-4966-b4ea-f5e914849796" />
+<img width="2223" height="1014" alt="IMG_20260823_100402" src="https://github.com/user-attachments/assets/292291e1-5e4c-4dbb-b88a-e69b24120822" />
+
