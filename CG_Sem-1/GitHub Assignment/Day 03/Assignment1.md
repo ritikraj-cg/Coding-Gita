@@ -10,3 +10,4 @@
 5. Give 2 examples of GUI and 2 examples of CLI.
 
 **Answers-**
+[Scanned_20260823_102238.pdf](https://github.com/user-attachments/files/31343403/Scanned_20260823_102238.pdf)
