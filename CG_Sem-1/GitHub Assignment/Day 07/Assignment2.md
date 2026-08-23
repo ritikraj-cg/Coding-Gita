@@ -17,3 +17,6 @@
 
 **Answers:**
 
+<img width="2206" height="2079" alt="IMG_20260823_110539" src="https://github.com/user-attachments/assets/6a51c151-9ca5-4049-b15b-3cc39ba3c551" />
+<img width="2058" height="665" alt="IMG_20260823_110608" src="https://github.com/user-attachments/assets/183b00aa-9b3c-49cc-bea7-67f79282f374" />
+
