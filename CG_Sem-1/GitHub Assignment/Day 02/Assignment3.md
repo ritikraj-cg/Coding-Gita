@@ -14,3 +14,4 @@
 4. Why is having a terminal inside VS Code useful for Git?
 
 **Answers-**
+![Uploading IMG_20260823_100552.jpg…]()
