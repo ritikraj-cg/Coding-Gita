@@ -46,6 +46,10 @@ Submit the following:
 
 **Answers-**
 
+**By Mistake i created day 05 as name instead of day 06**
+
+**..**
+
 **Repo Link-** https://github.com/ritikraj-cg/Day-5-Practice.git
 
 <img width="1402" height="958" alt="Screenshot 2026-08-23 213642" src="https://github.com/user-attachments/assets/e9ee6fc0-fe18-4376-93bc-3b88512c837d" />
