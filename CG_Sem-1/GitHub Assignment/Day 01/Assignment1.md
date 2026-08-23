@@ -15,5 +15,7 @@
 
 **Answers-**
 
+<img width="2000" height="2768" alt="IMG20260823093244" src="https://github.com/user-attachments/assets/519c4555-9f7d-4d7d-986a-c2beff7ba145" />
+
 <img width="2096" height="432" alt="IMG_20260823_093316" src="https://github.com/user-attachments/assets/321abe34-b0a9-4064-9ff1-6cf07acb4266" />
-<img width="2096" height="432" alt="IMG_20260823_093316" src="https://github.com/user-attachments/assets/4233a841-95e4-4c77-b264-c70ea25c79aa" />
+
