@@ -19,3 +19,4 @@ Fill in the missing stages and the commands used at each step.
    - Does `git commit` upload code to GitHub? Explain.
 
 **Answers:** 
+[Scanned_20260823_103953.pdf](https://github.com/user-attachments/files/31343544/Scanned_20260823_103953.pdf)
