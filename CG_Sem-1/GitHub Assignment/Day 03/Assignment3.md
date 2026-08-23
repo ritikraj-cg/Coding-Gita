@@ -22,3 +22,5 @@
    - `ls -la`
 
 **Answers:** 
+
+[Scanned_20260823_102400.pdf](https://github.com/user-attachments/files/31343429/Scanned_20260823_102400.pdf)
