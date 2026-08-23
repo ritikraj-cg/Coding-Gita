@@ -1,4 +1,3 @@
-<img width="2016" height="2928" alt="IMG20260823095623" src="https://github.com/user-attachments/assets/c0acd4cb-63a5-40b2-a373-2bb05cd9f895" />### Assignment 5: Conceptual + Real-Life Application
 
 **Objective:** Apply the concepts of VCS to a practical situation.
 
