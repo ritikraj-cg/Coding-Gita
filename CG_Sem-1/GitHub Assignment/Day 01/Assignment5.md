@@ -1,4 +1,4 @@
-### Assignment 5: Conceptual + Real-Life Application
+<img width="2016" height="2928" alt="IMG20260823095623" src="https://github.com/user-attachments/assets/c0acd4cb-63a5-40b2-a373-2bb05cd9f895" />### Assignment 5: Conceptual + Real-Life Application
 
 **Objective:** Apply the concepts of VCS to a practical situation.
 
@@ -10,3 +10,7 @@
 4. Write 4 key takeaways you learned from Day 1.
 
 **Answers-**
+
+
+<img width="2016" height="1911" alt="IMG_20260823_095717" src="https://github.com/user-attachments/assets/138e9aa4-802b-4a51-8f5c-cc238a44d4fc" />
+
