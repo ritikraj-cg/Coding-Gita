@@ -28,3 +28,5 @@
 3. Write **4 key takeaways**
 
 **Answers:** 
+
+[Scanned_20260823_102530.pdf](https://github.com/user-attachments/files/31343443/Scanned_20260823_102530.pdf)
