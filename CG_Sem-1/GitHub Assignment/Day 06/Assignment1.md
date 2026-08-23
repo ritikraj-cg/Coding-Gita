@@ -45,3 +45,20 @@ Submit the following:
 **Note:** Make sure your repository is public (or accessible to the mentor) so the submission can be verified.
 
 **Answers-**
+
+**Repo Link-** https://github.com/ritikraj-cg/Day-5-Practice.git
+
+<img width="1402" height="958" alt="Screenshot 2026-08-23 213642" src="https://github.com/user-attachments/assets/e9ee6fc0-fe18-4376-93bc-3b88512c837d" />
+
+**..**
+<img width="1562" height="1068" alt="Screenshot 2026-08-23 213415" src="https://github.com/user-attachments/assets/96eb83e4-a1e6-45a3-aa71-341fc7bee716" />
+
+**..**
+<img width="1375" height="721" alt="Screenshot 2026-08-23 213432" src="https://github.com/user-attachments/assets/332bc088-4a5f-4041-aecc-a42fbc492eea" />
+
+
+
+
+
+
+
