@@ -20,3 +20,4 @@ Perform the following in Git Bash and write the exact commands:
 - Why should we be careful while using `rm -rf`?
 
 **Answers:** 
+[Scanned_20260823_102433.pdf](https://github.com/user-attachments/files/31343436/Scanned_20260823_102433.pdf)
