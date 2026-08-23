@@ -10,3 +10,5 @@
 5. Write one real-life example where Fork is useful.
 
 **Answers-**
+
+<img width="2189" height="2054" alt="IMG_20260823_105139" src="https://github.com/user-attachments/assets/964c76c1-bf64-4977-8eee-82ff06ba9932" />
