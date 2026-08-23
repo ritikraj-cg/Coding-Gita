@@ -11,3 +11,4 @@
    - VS Code terminal showing Git Bash is selected
 
 **Answers:**
+[Scanned_20260823_102335.pdf](https://github.com/user-attachments/files/31343420/Scanned_20260823_102335.pdf)
