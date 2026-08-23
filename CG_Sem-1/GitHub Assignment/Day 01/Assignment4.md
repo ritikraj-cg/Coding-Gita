@@ -12,5 +12,6 @@
 4. Name any 3 platforms that work with Git (example: GitHub).
 
 **Answers**
-<img width="1895" height="716" alt="IMG_20260823_095432" src="https://github.com/user-attachments/assets/d62247bb-eaca-4f42-b9e7-44bae98504e0" />
+
 <img width="2208" height="1853" alt="IMG_20260823_095419" src="https://github.com/user-attachments/assets/ecb2c552-8142-46d1-a5f5-642daa4eed53" />
+<img width="1895" height="716" alt="IMG_20260823_095432" src="https://github.com/user-attachments/assets/d62247bb-eaca-4f42-b9e7-44bae98504e0" />
