@@ -14,3 +14,6 @@
 4. Write 3 benefits of using a VCS in a college project or team project.
 
 **Answers-**
+
+<img width="2096" height="432" alt="IMG_20260823_093316" src="https://github.com/user-attachments/assets/321abe34-b0a9-4064-9ff1-6cf07acb4266" />
+<img width="2096" height="432" alt="IMG_20260823_093316" src="https://github.com/user-attachments/assets/4233a841-95e4-4c77-b264-c70ea25c79aa" />
