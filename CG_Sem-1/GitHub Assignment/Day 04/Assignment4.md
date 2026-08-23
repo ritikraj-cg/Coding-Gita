@@ -23,3 +23,5 @@
 3. Write 4 key points you learned in Day 4.
 
 **Answers:**
+
+[Scanned_20260823_104306.pdf](https://github.com/user-attachments/files/31343560/Scanned_20260823_104306.pdf)
