@@ -10,3 +10,7 @@
    “Commit happens locally, Push happens to remote.”
 
 **Answers:** 
+
+<img width="2208" height="1992" alt="IMG_20260823_104533" src="https://github.com/user-attachments/assets/403b1824-6f3c-43ba-97d7-493172e960c8" />
+<img width="2207" height="765" alt="IMG_20260823_104558" src="https://github.com/user-attachments/assets/be3704dc-21dc-4e83-abaa-e8b5438809f4" />
+
