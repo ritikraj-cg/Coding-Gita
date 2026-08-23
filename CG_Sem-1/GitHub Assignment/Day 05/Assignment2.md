@@ -12,3 +12,4 @@
 5. Does `git commit` upload code to GitHub? Explain why or why not.
 
 **Answers:**
+<img width="2205" height="1249" alt="IMG_20260823_105150" src="https://github.com/user-attachments/assets/274e82cc-ecd5-4f71-8766-1c3c78c5a66e" />
