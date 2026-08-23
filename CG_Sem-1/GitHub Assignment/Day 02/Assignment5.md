@@ -17,3 +17,6 @@
 3. Write **4 key takeaways** from Day 2.
 
 **Answers-** 
+
+<img width="1853" height="770" alt="IMG_20260823_100641" src="https://github.com/user-attachments/assets/49d443ed-39dd-4198-a7af-2dac3c240939" />
+<img width="1820" height="1739" alt="IMG_20260823_100657" src="https://github.com/user-attachments/assets/46a8970f-ff17-49ba-853d-24a92c20a2f5" />
