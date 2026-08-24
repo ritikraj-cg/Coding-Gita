@@ -1,0 +1,22 @@
+### Assignment 3: Local vs Remote + Flow
+
+**Objective:** Understand the movement of code in Git.
+
+**Tasks:**
+1. Create a comparison table between **Local Repository** and **Remote Repository** with at least 4 points.
+
+2. Draw or write the basic Git flow:
+
+```
+Working Directory → ? → ? → Remote Repository
+```
+
+Fill in the missing stages and the commands used at each step.
+
+3. Answer:
+   - Where does `git add` move the files?
+   - Where does `git commit` save the changes?
+   - Does `git commit` upload code to GitHub? Explain.
+
+**Answers:** 
+[Scanned_20260823_103953.pdf](https://github.com/user-attachments/files/31343544/Scanned_20260823_103953.pdf)
