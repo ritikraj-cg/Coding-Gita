@@ -1,0 +1,5 @@
+sentence = input("Enter a sentence: ")
+words = sentence.split()
+print("First word:", words[0])
+print("Last word:", words[-1])
+print("Number of words:", len(words))

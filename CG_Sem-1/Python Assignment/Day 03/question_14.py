@@ -1,0 +1,7 @@
+print(ord("A"))
+print(ord("a"))
+print(ord("B"))
+print(ord("b"))
+print(ord("A") < ord("a"))
+print(ord("a") - ord("A"))
+print(ord("b") - ord("B"))

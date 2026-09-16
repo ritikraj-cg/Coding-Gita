@@ -1,0 +1,5 @@
+a, b, c = input("Enter three integers: ").split()
+a = int(a)
+b = int(b)
+c = int(c)
+print(a + b + c)

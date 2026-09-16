@@ -1,0 +1,8 @@
+character = input("Enter a character: ")
+code = ord(character)
+previous_character = chr(code - 1)
+next_character = chr(code + 1)
+print("Character:", character)
+print("Code:", code)
+print("Previous:", previous_character)
+print("Next:", next_character)

@@ -1,0 +1,6 @@
+data = input("Enter student record: ")
+name, age, course, city = data.split(",")
+print("Name:", name)
+print("Age:", age)
+print("Course:", course)
+print("City:", city)
