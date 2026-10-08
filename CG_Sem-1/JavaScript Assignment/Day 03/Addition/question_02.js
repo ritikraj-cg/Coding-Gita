@@ -1,0 +1,4 @@
+pagesReadMorining=18;
+pagesReadEvening=25;
+totalPagesRead=pagesReadMorining+pagesReadEvening
+console.log(totalPagesRead)

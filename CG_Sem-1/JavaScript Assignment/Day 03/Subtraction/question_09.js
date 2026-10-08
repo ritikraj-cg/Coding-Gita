@@ -1,0 +1,6 @@
+totalApple=240
+soldAppleMorning=95
+soldAppleEvening=67
+totalAppleSold=soldAppleMorning+soldAppleEvening
+appleLeft=totalApple-totalAppleSold
+console.log(appleLeft)
