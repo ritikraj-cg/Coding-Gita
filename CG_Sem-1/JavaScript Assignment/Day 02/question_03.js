@@ -1,5 +1,0 @@
-// Question 3: Constant Value
-
-const PI = 3.14;
-
-console.log(PI);
